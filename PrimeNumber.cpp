@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
   for(int i=1; i<=10; i++){
-    isPrime=true;
+    bool isPrime=true;
 
     if(i<2){
       isPrime=false;
