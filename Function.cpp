@@ -1,3 +1,5 @@
+//Enter <ENTER> to stop the system.
+
 # include <iostream>
 using namespace std;
 void getInput(double&,double&,double&);
