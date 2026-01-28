@@ -62,6 +62,7 @@ void indicesHighest(double a[][month],int &r,int &c){
         }
     }
 }
+
 int main(){
     string mo[12]={"JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG",
                     "SEP","OCT","NOV","DEC"};
