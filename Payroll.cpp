@@ -7,6 +7,7 @@ void displayLine(){
     }
     cout<<endl;
 }
+
 void getData(int id[],double work[][5]){
     for(int i=0;i<5;i++){
         cout<<"ID: ";
