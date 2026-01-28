@@ -41,6 +41,7 @@ double monthTotalSales(double a[br][month],int m){
     }
     return total;
 }
+
 double storeTotalSales(double a[][month],int s){
     double total=0;
     for(int i=0;i<month;i++){
