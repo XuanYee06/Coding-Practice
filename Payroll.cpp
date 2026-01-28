@@ -29,6 +29,7 @@ void calcPayroll(int id[],double work[][5]){
         work[i][4]=work[i][2]+work[i][3];
     }
 }
+
 void highest(int id[],double work[][5]){
     int h=0;
     for(int i=1;i<5;i++){
