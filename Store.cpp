@@ -29,6 +29,7 @@ double grandTotalSales(double a[br][month]){
     }
     return total;
 }
+
 double averageMonthlySales(double a[br][month]){
     double t=grandTotalSales(a);
     return t/12;
