@@ -40,6 +40,7 @@ void highest(int id[],double work[][5]){
     cout<<"Staff "<<id[h]<<" have the highest pay overtime of RM"<<work[h][3]<<endl;
     cout<<endl<<"-----------------------------------------------";
 }
+
 void printData(int id[],double work[][5]){
     cout<<"Payroll Final Report"<<endl;
     displayLine();
