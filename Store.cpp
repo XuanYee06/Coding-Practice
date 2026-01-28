@@ -19,6 +19,7 @@ void readFile(char filename[],double a[br][month],string store[br]){
     }
     inFile.close();
 }
+
 double grandTotalSales(double a[br][month]){
     double total=0;
     for(int i=0;i<br;i++){
