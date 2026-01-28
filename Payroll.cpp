@@ -18,6 +18,7 @@ void getData(int id[],double work[][5]){
         cin>>work[i][1];
     }
 }
+
 void calcPayroll(int id[],double work[][5]){
     for(int i=0;i<5;i++){
         work[i][2]=work[i][0]*work[i][1];
