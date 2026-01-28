@@ -50,6 +50,7 @@ double storeTotalSales(double a[][month],int s){
     }
     return total;
 }
+
 void indicesHighest(double a[][month],int &r,int &c){
     r=0,c=0;
     for(int i=1;i<br;i++){
