@@ -34,6 +34,7 @@ double averageMonthlySales(double a[br][month]){
     double t=grandTotalSales(a);
     return t/12;
 }
+
 double monthTotalSales(double a[br][month],int m){
     double total=0;
     for(int i=0;i<br;i++){
