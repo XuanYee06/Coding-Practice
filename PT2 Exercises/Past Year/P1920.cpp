@@ -1,4 +1,5 @@
 //Past Year (Skill-Based Test 1) 2019/2020 Set B
+//ANSWER
 
 #include <iostream>
 #include<string>
